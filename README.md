@@ -13,3 +13,6 @@ Sebagai BI analyst PT Sejahtera Bersama, diberikan tugas untuk memberikan solusi
 - Google Big Query : Query create table
 - MySQL : ERD Diagram relational
 - Looke Studio : Data Visualization & Dashboard
+
+# ERD (Relationship Diagram)
+![ERD diagram relational.png](https://github.com/aqli-myproject/BI-Analyst_Project-Based-Internship_Bank-Muamalat-x-Rakamin-Academy/blob/d9e9fa973392c3a6e31d7968430d8447eaad48fa/ERD%20diagram%20relational.png))
